@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Won from South Korea
+- 👋 Hi, I'm Won from South Korea 🇰🇷
 - Currently a Junior SWE working and learning on many projects :D 
 -  I’m currently learning React Native on Mobile, Python, and PHP
 -  MERN Stack
