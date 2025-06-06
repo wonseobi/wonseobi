@@ -1,4 +1,4 @@
-## Hi, I'm Won :D – Full-Stack Developer from South Korea 🇰🇷
+## Hi, I'm Won :) – Full-Stack Developer from South Korea 🇰🇷
 
 안녕하세요! I'm a **polyglot developer** fluent in 🇰🇷 Korean, 🇪🇸 Spanish, 🇫🇷 French, and 🇺🇸 English.
 
