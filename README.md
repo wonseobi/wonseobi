@@ -3,8 +3,8 @@
 안녕하세요! I'm a **polyglot developer** fluent in 🇰🇷 Korean, 🇪🇸 Spanish, 🇫🇷 French, and 🇺🇸 English.
 
 🧑‍💻 Working as a **Software Engineer** full-time + building apps/websites with **React**, **React Native**, and **MERN stack**.  
-🌍 Passionate about exploring **cross-platform mobile dev** with **React Native** & **Flutter**.  
-📱 I love clean UIs, original app ideas, and creative builds.
+📱 Passionate about exploring **cross-platform mobile dev** with **React Native** & **Flutter**.  
+💡 I love clean UIs, original app ideas, and creative builds.
 
 ---
 
