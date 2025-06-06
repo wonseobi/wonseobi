@@ -9,12 +9,9 @@
 ---
 
 ### ⚙️ Tech Stack
-
 **Frontend:** React, Next.js, TypeScript, Bootstrap, HTML/CSS, Figma  
 **Backend:** Node.js, Express.js, Python, PHP, Laravel, RESTful APIs  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git/GitHub, WordPress, VS Code, CLI, Postman
-
----
 
 🌌 Feel free to look around, collaborate, or follow :D 
