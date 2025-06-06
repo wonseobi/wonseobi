@@ -7,7 +7,7 @@
 💡 I love clean UIs, original app ideas, and creative builds.
 
 ### ⚙️ Tech Stack
-**Frontend:** React, Next.js, TypeScript, Bootstrap, HTML/CSS, Figma  
+**Frontend:** React, Next.js, TypeScript, JavaScript, Bootstrap, HTML/CSS, Figma  
 **Backend:** Node.js, Express.js, Python, PHP, Laravel, RESTful APIs  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git/GitHub, WordPress, VS Code, CLI, Postman
