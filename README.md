@@ -6,8 +6,6 @@
 📱 Passionate about exploring **cross-platform mobile dev** with **React Native** & **Flutter**.  
 💡 I love clean UIs, original app ideas, and creative builds.
 
----
-
 ### ⚙️ Tech Stack
 **Frontend:** React, Next.js, TypeScript, Bootstrap, HTML/CSS, Figma  
 **Backend:** Node.js, Express.js, Python, PHP, Laravel, RESTful APIs  
