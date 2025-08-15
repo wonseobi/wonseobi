@@ -1,6 +1,6 @@
-## Hi, I'm Won :) – Full-Stack Developer from Korea
+## Hi I'm Won Lee – developer from korea
 
-🧑‍💻 Working as a **Software Engineer** full-time + building apps/websites with **React**, **React Native**, and **MERN stack**.  
+Currently working as a **Software Engineer** full-time + building apps/websites with **React**, **React Native**, and **MERN stack**.  
 Passionate about exploring **cross-platform mobile dev** with **React Native** & **Flutter**.  
 
 ### My Tech Stack
