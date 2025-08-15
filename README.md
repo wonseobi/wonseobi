@@ -1,4 +1,4 @@
-## Hi I'm Won Lee – developer from korea
+## hey I'm Won developer from korea
 
 Currently working as a **Software Engineer** full-time + building apps/websites with **React**, **React Native**, and **MERN stack**.  
 Passionate about exploring **cross-platform mobile dev** with **React Native** & **Flutter**.  
