@@ -1,7 +1,7 @@
-## hey I'm Won developer from korea
+## hey I'm Won developer from Korea
 
-Currently working as a **Software Engineer** full-time + building apps/websites with **React**, **React Native**, and **MERN stack**.  
-Passionate about exploring **cross-platform mobile dev** with **React Native** & **Flutter**.  
+Working as a **Software Engineer** full-time + building apps/websites for a Miami, FL Company in the US
+Passionate about exploring **cross-platform mobile dev** with **React Native** and web experiences with **React**
 
 ### My Tech Stack
 **Frontend:** React, Flutter, Next.js, TypeScript, JavaScript, Bootstrap, HTML/CSS, Figma  
