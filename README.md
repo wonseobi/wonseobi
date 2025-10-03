@@ -1,6 +1,7 @@
 ## hey I'm Won developer from Korea
 
 Working as a **Software Engineer** full-time + building apps/websites for a Miami, FL Company in the US
+
 Passionate about exploring **cross-platform mobile dev** with **React Native** and web experiences with **React**
 
 ### My Tech Stack
